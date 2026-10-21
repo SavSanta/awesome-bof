@@ -12,6 +12,7 @@ This page catalogs key blog posts, whitepapers, and research articles related to
 | [BOFs for Script Kiddies](https://trustedsec.com/blog/bofs-for-script-kiddies) | TrustedSec | An introduction to what BOFs are | 2023-02-16 |
 | [Beacon Object Files](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm) | Fortra (Official docs) | Official documentation on BOF implementation and usage | 2023-08-20 |
 | [Beginner introduction to CobaltStrike BOF development](https://ph3n1x.com/posts/beginner-introduction-to-cobaltstrike-bof-development/) | ph3n1x | Step-by-step guide for beginners to create their first BOF | 2025-05-03 |
+| [Writing a Beacon Object File (BOF) from Scratch in C](https://by7e.dev/blog/bof-from-scratch-in-c) | by7e | Writing a Beacon Object File (BOF) from Scratch in C | 2026-10-06 |
 | [Introduction to BOF, Beacon Object Files not Buffer OverFlows](https://blog.shashwatshah.me/2023/03/26/Bofs_Part-1.html) | 0xEr3bus | Beginner-friendly blog explaining BOFs and writing custom process injector and remote Etw patching. | 2023-03-26 |
 | [Developing Cobalt Strike BOFs with Visual Studio](https://www.securify.nl/en/blog/creating-cobalt-strike-bofs-with-visual-studio/) | Yasse Alhzami | 2021-11-16 | Simple tutorial to develop BOFs with VS.
 
